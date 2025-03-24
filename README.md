@@ -1,16 +1,16 @@
 👋 Hello, I'm Martí Cabañas Gaza
 
-Cybersecurity Enthusiast | Computer Science Student at UB
+Cybersecurity Enthusiast | Computer Engineering Student at UB
 
-I'm a passionate cybersecurity and software development enthusiast from Barcelona, Spain. Currently, I'm in my third year of studying Computer Science at the University of Barcelona (UB), where I focus on system security, ethical hacking, and secure software development.
+I'm a passionate cybersecurity and software development enthusiast from Barcelona, Spain. Currently, I'm in my third year of studying Computer Engineering at the University of Barcelona (UB), where I focus on system security and secure software development.
 
 About Me
 
-Education: Computer Science, University of Barcelona (UB) (3rd Year)
+Education: Computer Engineering, University of Barcelona (UB) (3rd Year)
 
 Interests: Ethical Hacking, Network Security, Cryptography, Malware Analysis
 
-Tech Stack: Python, C, C++, Linux, SQL, Metasploit
+Tech Stack: Python, C, C++, Linux, SQL, Metasploit, Java
 
 Currently Learning: Web Security
 
