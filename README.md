@@ -14,7 +14,7 @@ Tech Stack: Python, C, C++, Linux, SQL, Metasploit, Java
 
 Currently Learning: Web Security
 
-Languages: Spanish (Native), Catalan (Native), English (Fluent)
+Languages: Spanish (Native), Catalan (Native), English (Fluent), German (Learning)
 
 🚀 Featured Projects
 
