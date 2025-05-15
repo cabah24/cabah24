@@ -11,15 +11,23 @@
 
 ---
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+┌──(marti㉿kali)-[~/GitHub]
+└─$ cat about_me.txt
 
-I’m currently a third-year Computer Engineering student at the University of Barcelona, with a strong focus on cybersecurity. My main interests include ethical hacking, digital forensics, and penetration testing. I enjoy participating in Capture The Flag (CTF) competitions and exploring both Red Team and Blue Team scenarios, which help me strengthen my offensive and defensive security skills. I'm constantly looking for new challenges and opportunities to grow within the cybersecurity field.
-- Languages:
-  - Native: Catalan, Spanish
-  - English: B2
-  - Learning: German 
-
+```bash
+> Name:       Martí Cabañas
+> Username:   cabah24
+> Role:       Computer Engineering Student (3rd year)
+> University: University of Barcelona
+> Passion:    Cybersecurity | Ethical Hacking 
+> Interests:  Red/Blue Teaming | Malware Analysis | cryptography
+> Tools:      Metasploit
+> Platforms:  HackTheBox
+> Currently:  Practicing offensive security & expanding technical depth
 ---
+<!-- Typing animation -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=70&lines=cat+hello_world.sh;echo+'Cybersecurity+enthusiast';echo+'CTF+Player+%7C+Terminal+Lover';echo+'Ready+to+hack+the+planet'..." alt="Typing SVG" />
+</p>
 
 ### 🛠️ Tech Stack
 
