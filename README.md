@@ -10,12 +10,6 @@
 </p>
 
 ---
-
-<!-- Cyber GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker terminal banner" />
-</p>
-
 <!-- Hacker Terminal Intro -->
 <pre>
 ┌──(marti㉿kali)-[~/GitHub]
@@ -37,9 +31,8 @@
 </p>
 
 ### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css,nodejs,mysql,c,cpp,java,vscode,react" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,js,html,css,nodejs,mysql,c,java,vscode,react" alt="Tech Stack" />
 </p>
 
 ---
