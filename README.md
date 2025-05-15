@@ -66,6 +66,4 @@ I’m currently a third-year Computer Engineering student at the University of B
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</p>
+![snake gif](https://github.com/cabah24/cabah24/blob/output/github-contribution-grid-snake.svg)
