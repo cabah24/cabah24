@@ -41,7 +41,13 @@ Socials
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css,nodejs,mysql,c,cpp,java,vscode,react" alt="Tech Stack" />
+  <b>Programming Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,css,mysql,html,javascript,kotlin" alt="Programming Languages" />
+</p>
+
+<p align="center">
+  <b>Tools & Technologies</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash" alt="Tools & Technologies" />
 </p>
 
 ---
