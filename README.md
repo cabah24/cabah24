@@ -11,12 +11,10 @@
 
 ---
 
-### 👨‍💻 About Me
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🎓 3rd-year Computer Engineering student at the **University of Barcelona**
-- 🔐 Passionate about **ethical hacking**, **digital forensics**, and **penetration testing**
-- 🎯 Exploring **CTFs**, **Red/Blue Teaming**, and cybersecurity challenges
-- 🌍 Languages:
+I’m currently a third-year Computer Engineering student at the University of Barcelona, with a strong focus on cybersecurity. My main interests include ethical hacking, digital forensics, and penetration testing. I enjoy participating in Capture The Flag (CTF) competitions and exploring both Red Team and Blue Team scenarios, which help me strengthen my offensive and defensive security skills. I'm constantly looking for new challenges and opportunities to grow within the cybersecurity field.
+- Languages:
   - Native: Catalan, Spanish
   - English: B2
   - Learning: German 
