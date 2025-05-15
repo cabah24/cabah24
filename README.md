@@ -1,7 +1,16 @@
 <!-- Cyber GIF Banner -->
 
-<h1 align="center">Hi 👋, I'm Martí</h1>
-<h3 align="center">Cybersecurity Enthusiast | Computer Engineering Student</h3>
+<!-- Hacker image/banner -->
+<p align="center">
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cyber Hacker" width="80%"/>
+</p>
+
+<!-- Typing SVG hacker style -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Cybersecurity+Enthusiast;Computer+Engineering+Student;CTF+Player+%7C+Ethical+Hacker;Learning+every+day..." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
