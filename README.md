@@ -42,12 +42,12 @@ Socials
 
 <p align="center">
   <b>Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,css,mysql,html,javascript,kotlin" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,css,mysql,html,javascript,kotlin,gradle,glsl" alt="Programming Languages" />
 </p>
 
 <p align="center">
   <b>Tools & Technologies</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,kali,ubuntu,linux,bash" alt="Tools & Technologies" />
 </p>
 
 ---
