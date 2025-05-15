@@ -5,9 +5,10 @@
 <!-- Typing SVG hacker style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Cybersecurity+Enthusiast;Computer+Engineering+Student;CTF+Player+%7C+Ethical+Hacker;Learning+every+day..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=70&lines=%3E_Marti+Cabanas+Gaza;Computer+Engineering+Student;CTF+Player+%7C+Ethical+Hacker;Learning+every+day" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
@@ -21,30 +22,37 @@ I’m currently a third-year Computer Engineering student at the University of B
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css,nodejs,mysql,c,cpp,java,vscode,react" alt="Tech Stack" />
 </p>
 
----
-
-### 🧠 Currently Learning
-
-- 🧰 Cybersecurity tools: Metasploit
-- 🏴‍☠️ Platforms: Hack The Box
-- 🔒 Deepening knowledge in networks, cryptography, and malware analysis
-
----
-
-### 🎓 Education
-
-- 📍 **BSc in Computer Engineering** — University of Barcelona (2022–Present)
-- 📚 Completed various cybersecurity labs and online courses via **HackTheBox**
+$ skills --list
+- Python          [████████░░░░]
+- Bash scripting  [███████░░░░░]
+- Nmap            [█████████░░]
+- Metasploit      [██████░░░░░░]
+- Wireshark       [████████░░░░]
 
 ---
 
-### 📊 GitHub Stats
+### I'm currently Learning
+
+- Cybersecurity tools: Metasploit
+- Platforms: Hack The Box
+- Deepening knowledge in networks, cryptography, and malware analysis
+
+---
+
+### My Education
+
+- *BSc in Computer Engineering** — University of Barcelona (2022–Present)
+- Completed various cybersecurity labs and online courses via **HackTheBox**
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cabah24&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -53,7 +61,7 @@ I’m currently a third-year Computer Engineering student at the University of B
 
 ---
 
-### 📫 Let's Connect
+### My socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
@@ -66,4 +74,6 @@ I’m currently a third-year Computer Engineering student at the University of B
 
 ---
 
-![snake gif](https://github.com/cabah24/cabah24/blob/output/github-contribution-grid-snake.svg)
+
+
+
